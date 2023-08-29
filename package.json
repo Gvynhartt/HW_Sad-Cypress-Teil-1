@@ -1,0 +1,17 @@
+{
+  "name": "cypress_teil_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy-head-chr": "cypress run --headed --browser chrome",
+    "cy-!head-chr": "cypress run --headless --browser chrome",
+    "cy-head-frfx": "cypress run --headed --browser firefox",
+    "cy-!head-frfx": "cypress run --headless --browser firefox"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}

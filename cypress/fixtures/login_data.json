@@ -1,0 +1,14 @@
+[
+  {
+    "name": "def user #1",
+    "email": "bropet@mail.ru",
+    "password": "123"
+  },
+
+  {
+    "name": "def user #2",
+    "email": "test@test.com",
+    "password": "test"
+  }
+]
+
